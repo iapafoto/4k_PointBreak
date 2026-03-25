@@ -1,2 +1,4 @@
-# Equalizer extration via FFT
-Live Fast Fourier Transformation from audio buffer (for PC 4K-8k Intro)
+# 4K intro Revision 2026
+Music by Doctor Gekil
+Code / Graphisme iapafoto
+
