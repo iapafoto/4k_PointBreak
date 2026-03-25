@@ -1,2 +1,2 @@
-# 4k_PointBreak
-4k intro, revision, 2026, demo, demoparty, scener, sointu, crinkler, shaderminifier
+# Equalizer extration via FFT
+Live Fast Fourier Transformation from audio buffer (for PC 4K-8k Intro)
